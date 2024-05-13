@@ -1,3 +1,7 @@
 *.jpg
 *.txt
 *.pkl
+**/.ipynb_checkpoints/**
+**/ckpt_*/**
+**/log_*/**
+*.zip
